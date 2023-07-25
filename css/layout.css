@@ -179,7 +179,7 @@ ul#nav li a {
 }
 
 ul#nav li a:active { background-color: transparent !important; }
-ul#nav li.current a { color: #F06000; }
+ul#nav li.current a { color: #1c9ee9; }
 
 
 /* ------------------------------------------------------------------ */
@@ -341,7 +341,7 @@ ul#nav li.current a { color: #F06000; }
   	-webkit-animation: wordpress 2s ease;
 }
 .css {
-  	width: 90%;
+  	width: 75%;
   	-moz-animation: css 2s ease;
   	-webkit-animation: css 2s ease;
 }
@@ -350,6 +350,25 @@ ul#nav li.current a { color: #F06000; }
   	-moz-animation: html5 2s ease;
   	-webkit-animation: html5 2s ease;
 }
+
+.typescript {
+   width: 70%;
+   -moz-animation: typescript 2s ease;
+   -webkit-animation: typescript 2s ease;
+}
+
+.javascript {
+   width: 90%;
+   -moz-animation: javascript 2s ease;
+   -webkit-animation: javascript 2s ease;
+}
+
+.reactjs {
+   width: 80%;
+   -moz-animation: reactjs 2s ease;
+   -webkit-animation: reactjs 2s ease;
+}
+
 .jquery {
   	width: 50%;
   	-moz-animation: jquery 2s ease;

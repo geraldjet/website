@@ -24,7 +24,7 @@ let resumeData = {
       ],
     "aboutme":"I am a highly motivated individual with a strong passion for software development and full stack development. As a recent computer science graduate, I am actively seeking opportunities to grow and advance in the field. I am eager to contribute my skills, collaborate with a dynamic team, and continuously expand my knowledge in order to tackle challenging projects and drive innovation in the software development industry.",
     "address":"Burnaby, BC, Canada",
-    "website":"www.geraldjet.com",
+    "website":"https://geraldjet.github.io/website/",
     "education":[
       {
         "UniversityName":"The University of British Columbia",
@@ -43,7 +43,7 @@ let resumeData = {
         // "Achievements":"Some Achievements"
       }
     ],
-    "skillsDescription":"Your skills here",
+    "skillsDescription":"",
     "skills":[
       {
         "skillname":"HTML5"
@@ -52,10 +52,10 @@ let resumeData = {
         "skillname":"CSS"
       },
       {
-        "skillname":"Reactjs"
+        "skillname":"REACTJS"
       },
       {
-        "skillname":"Typescript"
+        "skillname":"TYPESCRIPT"
       }
     ],
     "portfolio":[
